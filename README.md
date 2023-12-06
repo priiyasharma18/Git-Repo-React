@@ -1,2 +1,2 @@
 # Git-Repo-React
-sample git Repo for test
+Sample Git Repo For Test
